@@ -3,6 +3,7 @@
 [![Sponsor on GitHub](https://img.shields.io/badge/Sponsoriser-DominiqueLoyer-EA4AAA?logo=github-sponsors)](https://github.com/sponsors/DominiqueLoyer)
 [![DOI](https://zenodo.org/badge/973314397.svg)](https://doi.org/10.5281/zenodo.17943883)
 
+
 ### \author Dominique Loyer
 
 ```python
